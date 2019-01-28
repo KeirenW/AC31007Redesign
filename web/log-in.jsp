@@ -5,7 +5,6 @@
   Time: 18:07
   To change this template use File | Settings | File Templates.
 --%>
-<%@include file=""%>
 <%@ page contentType="text/html;charset=UTF-8" %>
 <!DOCTYPE HTML>
 <html>
