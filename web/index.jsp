@@ -90,7 +90,7 @@
 						<p class="text-right">Completed Exams</p>
 					</div>
 				</div>
-				<a href="#" class="text-success text-decoration-none">
+				<a href="listExams.jsp" class="text-success text-decoration-none">
 					<div class="card-footer">
 						<span>View Exams</span>
 						<i class="fa fa-arrow-circle-right fa-pull-right"></i>
@@ -110,7 +110,7 @@
 						<p class="text-right">In Progress Exams</p>
 					</div>
 				</div>
-				<a href="#" class="text-warning text-decoration-none">
+				<a href="listExams.jsp" class="text-warning text-decoration-none">
 					<div class="card-footer">
 						<span>View Exams</span>
 						<i class="fa fa-arrow-circle-right fa-pull-right"></i>
@@ -130,7 +130,7 @@
 						<p class="text-right">New Exams</p>
 					</div>
 				</div>
-				<a href="#" class="text-danger text-decoration-none">
+				<a href="CreateExam.jsp" class="text-danger text-decoration-none">
 					<div class="card-footer">
 						<span>View Exams</span>
 						<i class="fa fa-arrow-circle-right fa-pull-right"></i>
