@@ -7,9 +7,12 @@ public class Main
 	 * Enumerator for roles played by users
 	 */
 	public enum Role {
+		EXAMSETTER,
 		INTERNAL,
 		EXTERNAL,
 		COMMITTEE,
-		OFFICE
+		OFFICE,
+		GUEST,
+		ADMIN
 	}
 }
